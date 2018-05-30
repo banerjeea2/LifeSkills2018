@@ -1,0 +1,29 @@
+body{
+  background-image: url(https://www.svsd410.org/cms/lib/WA01919490/Centricity/Domain/451/9492359_orig.jpg);
+background-size: cover;
+background-position: top;
+background-repeat: no-repeat;
+}
+.loginbox{
+  width: 500px;
+  height:350px;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #ff2400;
+  color: #fff;
+
+margin: auto;
+padding: 30px 15px;
+transform: translateY(50%);
+
+}
+
+.avatar{
+
+}
+
+.btn{
+display: block;
+padding: 30px;
+
+}
